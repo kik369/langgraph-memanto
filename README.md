@@ -1,3 +1,8 @@
+![GitHub Sponsors](https://img.shields.io/github/sponsors/moorcheh-ai?label=Sponsor&color=%23ea4aaa)
+![PyPI Version](https://img.shields.io/pypi/v/memanto)
+![Python Version](https://img.shields.io/pypi/pyversions/memanto)
+![License](https://img.shields.io/pypi/l/memanto)
+
 <p align="center">
     <a href="https://www.memanto.ai/">
     <img alt="MEMANTO Logo" src="https://github.com/moorcheh-ai/memanto/raw/main/assets/memanto-dark.svg" width="500">
